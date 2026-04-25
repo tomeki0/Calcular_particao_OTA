@@ -1,12 +1,9 @@
 # ==========================================================
 # Android Super Partition Space Checker
+# Versão: 1.0
 #
 # Desenvolvido por: Guilherme Lima de Souza
-# Matrícula: 85815
-# Email: guilhermel@positivo.com.br
 #
-# Versão: 1.0
-
 # Descrição:
 # Ferramenta para análise de espaço da super partition
 # utilizando dados do lpdump e cálculo baseado no SOP do ODM.
