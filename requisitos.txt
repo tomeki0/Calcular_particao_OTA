@@ -1,0 +1,13 @@
+OTA Super Partition Checker v1.0
+
+Requisitos:
+- Python 3.x instalado
+- ADB (Android Platform Tools) instalado e configurado no PATH
+
+Como usar:
+1. Conectar o dispositivo via USB
+2. Executar run_checker.bat
+3. Seguir instruções no terminal
+
+Saída:
+- Arquivos gerados na pasta Outputs/
